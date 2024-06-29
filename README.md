@@ -48,7 +48,7 @@ The user interface (UI) of this application is in Romanian, but it demonstrates 
 
 <img width="1198" alt="image" src="https://github.com/DamianCozma/FormulaEditor/assets/149274508/c3b62500-00e9-4714-88e5-e455bd2dab39"> <br>
 
-- In order to type in the mathematical formula, you will have to click on "Manual" (stems from "manually (introducing the formula)"
+- In order to type in the mathematical formula, you will need to click on "Manual" - which stems from 'manually introducing the formula' - as there are 3 default examples you can click on to demonstrate how the application works.
 <br>
 
 <img width="1196" alt="image" src="https://github.com/DamianCozma/FormulaEditor/assets/149274508/c16e8f53-4293-425e-802f-be072a6c1db4">
