@@ -75,7 +75,7 @@ The user interface (UI) of this application is in Romanian, but it demonstrates 
 
 ### Save
 
-- The saving feature is simple, you click on the "Save" button, and a .png will save in your .CPP directory file
+- The saving feature is simple: you click on the 'Save' button, and a .png file will be saved in your .CPP directory.
 
 <img width="1241" alt="image" src="https://github.com/DamianCozma/FormulaEditor/assets/149274508/d8219725-a7f5-492f-a826-2dd1252acecf">
 
