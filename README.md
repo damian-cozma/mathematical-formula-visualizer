@@ -24,7 +24,7 @@ This project is intended to demonstrate my abilities in creating applications th
 
 ### Collaborator
 
-This project was developed hand in hand with [David Cimpoesu](https://github.com/CIMPOESUDAVID), emphasizing collaborative effort and teamwork throughout our first semester of computer science degree.
+This project was developed hand in hand with [David Cimpoesu](https://github.com/david-cimpoesu), emphasizing collaborative effort and teamwork throughout our first semester of computer science degree.
 
 ### User Interface in Romanian
 
